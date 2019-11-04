@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AviasalesAnim</string>
+    <string name="departure_city">город назначения</string>
+    <string name="clear_search_query">очистить</string>
+    <string name="departure">город отправления</string>
+    <string name="destination">город назначения</string>
+    <string name="search">поиск</string>
+</resources>
